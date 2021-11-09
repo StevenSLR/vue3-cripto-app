@@ -11,7 +11,7 @@
       ><router-link to="/">Crypto List</router-link></el-menu-item
     >
   </el-menu>
-
+  <h1>Ciao Sabrina</h1>
   <router-view />
 </template>
 
